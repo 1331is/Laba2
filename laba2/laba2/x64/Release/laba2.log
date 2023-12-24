@@ -1,0 +1,10 @@
+﻿  labulya2.cpp
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(10,19): error C2062: тип "int" не требуется
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(10,30): error C2065: i: необъявленный идентификатор
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(10,37): error C2065: i: необъявленный идентификатор
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(10,47): error C2059: синтаксическая ошибка: )
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(11,27): error C2059: синтаксическая ошибка: ;
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(13,1): error C2059: синтаксическая ошибка: }
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(13,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(18,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(18,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

@@ -1,0 +1,6 @@
+﻿  labulya2.cpp
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(19,10): warning C4101: is_del: неиспользованная локальная переменная
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(32,9): warning C4101: pervi_index: неиспользованная локальная переменная
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(33,9): warning C4101: vtoriu_index: неиспользованная локальная переменная
+C:\Users\HUAWEI\source\repos\laba2\laba2\labulya2.cpp(137): error C4700: использована неинициализированная локальная переменная "count"
